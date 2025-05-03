@@ -5,3 +5,5 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=hodoknow_fullstack-javascript-project-44&metric=bugs)](https://sonarcloud.io/summary/new_code?id=hodoknow_fullstack-javascript-project-44)
 
 [▶ **brain-even asciinema**](https://asciinema.org/a/3g9TnBVhzQsbYInEaBZAUWPVe)
+
+[▶ **brain-calc asciinema**](https://asciinema.org/a/EYoWqHRXiPg3ts6mWDXhTTmql)
